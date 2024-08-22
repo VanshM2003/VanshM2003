@@ -5,6 +5,4 @@
 - 📫 How to reach me ==> just message me on Linkedin(Links on my profile).
 - 😄 Pronouns: (He/Him)
 
-- 
-
 
