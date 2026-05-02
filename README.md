@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">A passionate frontend developer and data science enthusiast from India</h3>
+<h3 align="center">A passionate developer and data science enthusiast from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vanshmalkoti" target="blank"><img src="https://img.shields.io/twitter/follow/vanshmalkoti?logo=twitter&style=for-the-badge" alt="vanshmalkoti" /></a> </p>
 
